@@ -3,7 +3,7 @@
  * main - starting point
  * return: if 0 success
  */
-int main(0)
+int main(void)
 {
 printf("size of char: %lu bytes\n",
 sizeof(char));
