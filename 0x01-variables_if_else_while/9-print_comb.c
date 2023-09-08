@@ -12,9 +12,9 @@ int main(void)
                 if (i > 0)
 		{
                         putchar( ',');
-                        putchar('');
+                        putchar(',');
 		}
-		putchar('o' + i);
+		putchar('0' + i);
         }
         putchar('\n');
         return (0);
