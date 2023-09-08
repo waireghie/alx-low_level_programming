@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - prints the alphabet
+ * Return: 0 is always success
+ */
+
 int main(void)
 {
 	char c;
@@ -10,5 +15,5 @@ int main(void)
 			c++;
 		}
 	putchar('\n');
-return (0);	
+	return (0);	
 }
