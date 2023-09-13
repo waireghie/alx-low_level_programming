@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _abs - finds the absolute value of a number
- * @i: parameter of function
- * Return: -i or i;
+ * @j: parameter of function
+ * Return: -j or j 
  */
 int _abs(int j)
 {
