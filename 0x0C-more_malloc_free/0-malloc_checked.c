@@ -10,7 +10,7 @@
 
 void *malloc_checked(unsigned int b)
 {
-	char *allocate:
+	char *allocate;
 
 	allocate = malloc(b);
 	if (allocate == NULL)
